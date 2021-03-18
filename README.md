@@ -6,7 +6,7 @@
 
 ## Olá mundo 👋
 Sou apaixonado por aprender sempre mais.
-Sou um Frontend Developer :computer:
+Sou um desenvolvedor Frontend :computer:
 
 
  <br/> :heart: &nbsp; Sempre disposto a ajudar e aprender com projetos em Front-end usando React e React Native
