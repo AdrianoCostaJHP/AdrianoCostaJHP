@@ -30,6 +30,6 @@ Sou apaixonado por aprender sempre mais.
 Desenvolvedor Frontend :computer:
 
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, Typescript & Graphql.
- <br/> :heart: &nbsp; Sempre disposto a ajudar e aprender com projetos em Front-end usando React e React Native
- <br/> 💬  &nbsp; Sobre mim: Curto muito eletronica e programação web & no tempo livre estudo sobre Segurança da Informação:closed_lock_with_key: .
+ <br/> :heart: &nbsp; Sempre disposto a ajudar e aprender com projetos em Front-end usando React e React Native.
+ <br/> 💬  &nbsp; Sobre mim: Curto muito eletronica e programação web & no tempo livre estudo sobre Segurança da Informação:closed_lock_with_key:.
 
