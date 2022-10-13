@@ -1,5 +1,8 @@
 # Adriano Costa
-## Olá mundo 👋
+
+### Olá 👋
+#### Sou estudante de ciencia da computação, adoro aprender sobre hardware/eletrônica, programação web/mobile e resolver problemas que me façam evoluir e aprender com meus erros. 
+#### Front end Developer :computer:
  <div>
   <a href="https://github.com/adrianocostajhp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianocostajhp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,13 +21,11 @@
   
   ##
  
-<div> 
-<!--   <a href="https://instagram.com/adriano_costa_araujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto:adrianocostajhp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriano-costa-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
 
 
- <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NextJS && Graphql.
- <br/> 💬  &nbsp; Sobre mim: Gosto muito de aprender sobre hardware/eletrônica, programação web/mobile, Segurança da Informação e práticas de desenvolvimento seguro.:closed_lock_with_key:.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NextJS, Graphql && TypeScript :blue_heart:.
+ <br/> 💬  &nbsp; Sobre mim: Além da programação também estudo sobre Segurança da Informação e práticas de desenvolvimento seguro.:closed_lock_with_key:.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-costa-/)](https://www.linkedin.com/in/adriano-costa-/) 
+  [![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:adrianocostajhp@gmail.com)](mailto:adrianocostajhp@gmail.com)
+ 
 
