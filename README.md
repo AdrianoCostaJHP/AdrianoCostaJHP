@@ -1,6 +1,5 @@
-# Adriano Costa
+## Adriano Costa
 
-### Olá 👋
 #### Sou estudante de ciencia da computação, adoro aprender sobre hardware/eletrônica, programação web/mobile e resolver problemas que me façam evoluir e aprender com meus erros. 
 #### Front end Developer :computer:
  <div>
@@ -22,7 +21,7 @@
 
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NextJS, Graphql && TypeScript :blue_heart:.
  <br/> 💬  &nbsp; Sobre mim: Além da programação também estudo sobre Segurança da Informação e práticas de desenvolvimento seguro.:closed_lock_with_key:.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-AdrianoCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-costa-/)](https://www.linkedin.com/in/adriano-costa-/) 
+ <br/> <br/> [![Linkedin Badge](https://img.shields.io/badge/-AdrianoCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-costa-/)](https://www.linkedin.com/in/adriano-costa-/) 
   [![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:adrianocostajhp@gmail.com)](mailto:adrianocostajhp@gmail.com)
  
 
