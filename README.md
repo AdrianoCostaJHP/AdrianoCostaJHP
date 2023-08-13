@@ -1,7 +1,12 @@
-## Adriano Costa
+<h1>Hello, sou o Adriano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adriano-costa-/)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adrianocostajhp@gmail.com)](mailto:adrianocostajhp@gmail.com)
 
-#### Sou estudante de ciencia da computação, adoro aprender sobre hardware/eletrônica, programação web/mobile e resolver problemas que me façam evoluir e aprender com meus erros. 
-#### Front end Developer :computer:
+<p align="center">
+  <h4> Sou desenvolvedor FrontEnd </h3>
+</p>
+
+### Front end Developer :computer:
  <div>
   <a href="https://github.com/adrianocostajhp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianocostajhp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
