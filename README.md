@@ -1,12 +1,17 @@
-<h1>Hello, sou o Adriano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/adriano-costa-/)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adrianocostajhp@gmail.com)](mailto:adrianocostajhp@gmail.com)
+ <div align="center">
+  <h1>Hello, eu sou o Adriano  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px"> </h1>
+</div>
 
-<p align="center">
-  <h4> Sou desenvolvedor FrontEnd </h3>
-</p>
+<div align="center">
+  <h3> Adriano Costa | 💻 Front End Developer | 🛸 Morrinhos-GO</h3>
+</div>
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-adrianocosta-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-costa-/)](https://www.linkedin.com/in/adriano-costa-/)
+[![Gmail Badge](https://img.shields.io/badge/-adrianocostajhp-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:adrianocostajhp@gmail.com)](mailto:adrianocostajhp@gmail.com)
 
-### Front end Developer :computer:
+</div>
+
  <div>
   <a href="https://github.com/adrianocostajhp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianocostajhp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,7 +31,12 @@
 
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native, NextJS, Graphql && TypeScript :blue_heart:.
  <br/> 💬  &nbsp; Sobre mim: Além da programação também estudo sobre Segurança da Informação e práticas de desenvolvimento seguro.:closed_lock_with_key:.
- <br/> <br/> [![Linkedin Badge](https://img.shields.io/badge/-AdrianoCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-costa-/)](https://www.linkedin.com/in/adriano-costa-/) 
-  [![Email Badge](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:adrianocostajhp@gmail.com)](mailto:adrianocostajhp@gmail.com)
+
+<p align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E2954&height=120&section=footer"/>
+</p>
+
+
+ 
  
 
