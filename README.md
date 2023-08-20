@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3> Adriano Costa | 💻 Front End Developer | 🛸 Morrinhos-GO</h3>
+  <h3> Adriano Costa | 💻 Front End Developer | 🛸 Caldas Novas - GO</h3>
 </div>
 <div align="center">
   
