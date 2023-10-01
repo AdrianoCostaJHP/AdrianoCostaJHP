@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-      Este sou eu, aluno do ultimo ano de graduação em <b>Ciência da Computação</b> no instituto <a href="https://ifgoiano.edu.br/home/index.php"> <b>Instituto Federal Goiano</b> </a><br/>
+      Este sou eu, aluno do ultimo ano de graduação em <b>Ciência da Computação</b> no <a href="https://ifgoiano.edu.br/home/index.php"> <b>Instituto Federal Goiano</b> </a><br/>
       Desenvolvedor <b>Front-end</b>&nbsp; e  Entusiasta em <b>Cibersegurança.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
@@ -27,29 +27,27 @@
 </div>
 
  <div>
+    <div  align="center">
     <h3> :computer: Minha Stack </h3>
-  
+        
 ![React](https://img.shields.io/badge/-ReactJS-22272e?style=flat-square&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-22272e?style=flat-square&logo=next.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-22272e?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-22272e?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-22272e?style=flat-square&logo=JavaScript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-22272e?style=flat-square&logo=TypeScript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-22272e?style=flat-square&logo=node.js)&nbsp;
 ![NestJS](https://img.shields.io/badge/-NestJS-22272e?style=flat-square&logo=nestjs&logoColor=e0234e)&nbsp;
-
 ![GraphQL](https://img.shields.io/badge/-GraphQL-22272e?style=flat-square&logo=graphql&logoColor=da0093)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-22272e?style=flat-square&logo=apollo-graphql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-22272e?style=flat-square&logo=postgresql)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-22272e?style=flat-square&logo=linux)&nbsp;
-
 ![Docker](https://img.shields.io/badge/-Docker-22272e?style=flat-square&logo=docker)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-22272e?style=flat-square&logo=jest&logoColor=orange)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-22272e?style=flat-square&logo=cypress)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-22272e?style=flat-square&logo=git)&nbsp;
-  
- </div >
+        
+ </div>
 
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=298DAA&height=120&section=footer"/>
